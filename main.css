@@ -149,7 +149,7 @@ h6 {
   left: 0;
   bottom: 0;
   padding: 0 15px;
-  width: 300px;
+  width: 250px;
   transition: all ease-in-out 0.3s;
   overflow-y: auto;
   z-index: 997;
@@ -544,8 +544,8 @@ section,
 .hero {
   width: 100%;
   min-height: 100vh;
-  position: relative;
-  padding: 80px 0;
+  position: left;
+  padding: 100px 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1295,5 +1295,11 @@ section,
   
 }
 /*--------------------------------------------------------------
-# Starter Section Section
+# Section Data Analyse
 --------------------------------------------------------------*/
+.Illness_Management{
+  padding-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  margin-left: 300px;
+}
